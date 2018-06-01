@@ -1,7 +1,7 @@
 
 ****Analysis****
-1. The temperature is hotter when the city is close to the equater 
-2. There is no strong correlation between Humidity, clodness, wind speed and latitudes
+1. The temperature is hotter when the city is closer to the equater 
+2. There is no strong correlation between Humidity/ clodness/ wind speed and latitudes
 3. In most cities the wind speed is less than 8 m/s. 
 
 
